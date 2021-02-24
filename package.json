@@ -1,0 +1,15 @@
+{
+  "name": "com.setik.adsmodule",
+  "version": "1.0.0",
+  "displayName": "Ads Module",
+  "description": "This is an utility package from setik for Ads Network Implement. It provides a IAdsInterface to create a common interface between various ads network thus simplicy the integration process.",
+  "unity": "2018.4",
+  "unityRelease": "28f1",
+  "keywords": [],
+  "author": {
+    "name": "setik",
+    "email": "thanhnguyenkim12@gmail.com",
+    "url": "https://killertee.wordpress.com/about/"
+  },
+  "type": "tool"
+}
